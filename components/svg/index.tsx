@@ -1,0 +1,9 @@
+export { default as OcSvg } from '@/components/svg/ocSvg';
+export { default as RamSvg } from '@/components/svg/ramSvg';
+export { default as SsdSvg } from '@/components/svg/ssdSvg';
+export { default as FrameSvg } from '@/components/svg/frameSvg';
+export { default as CoolingSvg } from '@/components/svg/coolingSvg';
+export { default as PoweruntSvg } from '@/components/svg/poweruntSvg';
+export { default as VideocardSvg } from '@/components/svg/videocardSvg';
+export { default as ProcessorSvg } from '@/components/svg/processorSvg';
+export { default as MotherboardSvg } from '@/components/svg/motherboardSvg';
